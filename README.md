@@ -22,6 +22,7 @@ the answer back the same way. Computer A displays the result.
 
 ## Results
 ![BER vs SNR](results/ber_vs_snr.png)
+![spectrogram](results/spectrogram.png)
 
 - Error-free down to about -12 dB wideband SNR in simulation; BER rises to <!-- ~39% --> near -26 dB.
 - Live test: <!-- distance, room, volume, success rate -->
